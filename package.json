@@ -19,7 +19,7 @@
   "homepage": "https://github.com/felipeturing/website#readme",
   "dependencies": {
     "errorhandler": "^1.5.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-handlebars": "^5.3.3",
     "fs-extra": "^10.0.0",
     "md5": "^2.3.0",
